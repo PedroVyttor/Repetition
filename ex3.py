@@ -9,5 +9,5 @@ while nome != 'neymar' and time != 'sousa':
     nome = input('Digite o jogador preferido') .lower()
     time = input('digite o time prederido') .lower()
 
-print('voce gosta de um time horrivel ou de um jogador bandido')
+print('voce gosta de um time ou de um jogador')
 
