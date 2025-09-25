@@ -18,4 +18,4 @@ if qtde > 0:
     print(f'a media de idade dos alunos e {media}')
     print(pos18 , 'foi a quantidade de alunos com mais de 18 anos')
 else:
-    print('nenhuma idade calida foi digitada')
+    print('nenhuma idade valida foi digitada')
